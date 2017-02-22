@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 WriteLine("Hello world!")
 WriteLine("Hello evrebody!")
 Print("Hello")
+=======
+WriteLine("Hello world!")
+>>>>>>> master
