@@ -1,2 +1,3 @@
 WriteLine("Hello world!")
 WriteLine("Hello evrebody!")
+Print("Hello")
