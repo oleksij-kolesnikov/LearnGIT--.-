@@ -1,3 +1,6 @@
+
 WriteLine("Hello world!;")
 WriteLine("Hello evrebody!;")
 Print("Hello;")
+Print("Hello my dier friend;")
+print("glad to see you;")
